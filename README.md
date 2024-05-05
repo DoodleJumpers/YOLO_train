@@ -15,4 +15,11 @@ https://universe.roboflow.com/wildfireproject-l6dvc/ver-1/dataset/3 (660 Мб)
 
 ## Cсылки на колабы
 
-[Roman](https://colab.research.google.com/drive/1ayr-8du1qkF_OHPKEUFPHU8dmRQIcGAl?usp=sharing)
+[Fire_YOLO](https://colab.research.google.com/drive/1ayr-8du1qkF_OHPKEUFPHU8dmRQIcGAl?usp=sharing)
+
+## To-Do 
+
+- Сделать видео из картинок дрона и обучить на нем
+- Написать питон скрипт для предсказания по картинке
+- Научиться работать с потоком видео
+- Попробовать другие модели (если получится)
