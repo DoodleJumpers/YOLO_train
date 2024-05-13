@@ -17,6 +17,20 @@ https://universe.roboflow.com/wildfireproject-l6dvc/ver-1/dataset/3 (660 Мб)
 
 [Fire_YOLO](https://colab.research.google.com/drive/1ayr-8du1qkF_OHPKEUFPHU8dmRQIcGAl?usp=sharing)
 
+## Использование скриптов
+
+```python
+python3 script.py image_name.jpg
+```
+
+результат сохраняется в __predicts/image_name_predict.jpg/image_name_predict.jpg__
+
+
+```python
+python3 stream.py
+```
+обрабатывает видеопоток с камеры
+
 ## To-Do 
 
 - Сделать видео из картинок дрона и обучить на нем
