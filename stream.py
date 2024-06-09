@@ -5,7 +5,7 @@ import sys
 
 
 def main():
-    model = YOLO("yolov8n.pt")
+    model = YOLO("./fire_yolo.pt")
      
     results = model.track(source=0, show=True)
 
